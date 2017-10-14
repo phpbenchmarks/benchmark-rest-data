@@ -1,0 +1,13 @@
+{
+    "name": "phpbenchmarks/rest-benchmark-type",
+    "license": "proprietary",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "PhpBenchmarksRestType\\": ""
+        }
+    },
+    "require": {
+        "php": ">=5.3.9"
+    }
+}
