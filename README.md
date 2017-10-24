@@ -12,6 +12,6 @@ You can compare results between Apache Bench and Siege, PHP 5.6 to 7.2 and versi
 
 ## What is this repository ?
 
-It's data for Rest API benchmark, for all benchmarks.
+It's data for Rest API benchmark.
 
 You can find how we benchmark it [here](http://www.phpbenchmarks.com/en/benchmark-protocol).
