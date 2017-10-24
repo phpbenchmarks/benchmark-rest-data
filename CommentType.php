@@ -1,6 +1,6 @@
 <?php
 
-namespace PhpBenchmarksRestType;
+namespace PhpBenchmarksRestData;
 
 class CommentType
 {
