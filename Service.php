@@ -16,7 +16,7 @@ class Service
         $user = (new User())
             ->setId(1)
             ->setLogin('phpbenchmarks')
-            ->setCreatedAt(new \DateTime())
+            ->setCreatedAt(new \DateTime('2017-10-30 18:03:00'))
             ->addComment($comment)
             ->addComment($comment);
 

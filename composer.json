@@ -1,5 +1,6 @@
 {
     "name": "phpbenchmarks/benchmark-rest-data",
+    "description": "Data for REST API benchmark on phpbenchmarks.com",
     "license": "proprietary",
     "type": "project",
     "autoload": {
